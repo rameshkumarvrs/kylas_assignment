@@ -6,3 +6,6 @@ def sum(*argument)
 end
 
  sum(2,3,5,8)
+ sum(2,3,4)
+ sum(1,2)
+ sum(5,6,7,8)
